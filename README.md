@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-**bloodhound-ce-ctl** is a CLI management tool for [BloodHound Community Edition](https://github.com/SpecterOps/BloodHound) — built to streamline the repetitive parts of working with BloodHound CE during an engagement.
+**bloodhound-ce-ctl** is a CLI management tool for [BloodHound Community Edition](https://github.com/SpecterOps/BloodHound) built to streamline the repetitive parts of working with BloodHound CE during an engagement.
 
 ## Features
 
@@ -78,3 +78,4 @@ alias bhctl='bloodhound-ce-ctl -i $BH_TOKEN_ID -k $BH_TOKEN_KEY'
 ## Acknowledgments
 
 - Built on top of [BloodHound Community Edition](https://github.com/SpecterOps/BloodHound) by SpecterOps
+
